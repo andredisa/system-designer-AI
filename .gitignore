@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.DS_Store
+core/__init__.py
+app/__init__.py
+config/__init__.py

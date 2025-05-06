@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+openai
+anthropic
+pydantic
+agno

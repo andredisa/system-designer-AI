@@ -59,7 +59,7 @@ system-designer-AI/
 1. **Clone the Repository** 🧳:
 
     ```bash
-    git clone https://github.com/your-username/system-designer-AI.git
+    git clone https://github.com/andredisa/system-designer-AI.git
     ```
 
 2. **Install Dependencies** 🖥️:
